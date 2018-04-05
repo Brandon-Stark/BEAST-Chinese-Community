@@ -1,2 +1,2 @@
 # BEAST-Chinese-Community
-BEAST中文
+BEAST中文社区
